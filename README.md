@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 👋
 
-I'm a Computer Science & Artificial Intelligence student at the **University of Sussex**, looking for a **2027/28 placement** in machine learning, data science or software engineering. I like turning messy real-world data into clear answers.
+I'm a Computer Science & Artificial Intelligence student at the **University of Sussex**, looking for internships in machine learning, data science or software engineering. I like turning messy real-world data into clear answers.
 
 **Tech stack:** Python (pandas, NumPy, scikit-learn, matplotlib) · SQL (PostgreSQL) · Java · Git
 
